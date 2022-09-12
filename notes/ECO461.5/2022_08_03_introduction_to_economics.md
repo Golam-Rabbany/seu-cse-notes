@@ -27,6 +27,20 @@ increasing oppertunity cost, As more of one good is produced the opportunity cos
 > Recommended book : **Economics** by Roger A Arnold
 
 
+
+####  Economic concepts in a PPF Framework
+----PPF----
+1. Scarcity
+2. Choice
+3. Opportunity Cost
+4. Productive Efficiency
+5. Unemployed Resources
+6. Economic Growth
+
+Scarcity: We can have something but not all thing. Scarcity is shown by frontire itself.
+Choice: Choice is characterized by the available options we have.
+
+
 ```yaml
 title: Introduction to economics
 date: 2022-08-03
