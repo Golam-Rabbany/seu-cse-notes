@@ -38,6 +38,7 @@ increasing oppertunity cost, As more of one good is produced the opportunity cos
 6. Economic Growth
 
 Scarcity: We can have something but not all thing. Scarcity is shown by frontire itself.
+
 Choice: Choice is characterized by the available options we have.
 
 
